@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mermaid on Jan Kučera</title>
+    <link>https://username.github.io/tags/mermaid/</link>
+    <description>Recent content in Mermaid on Jan Kučera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>kucera.ja&#43;blog@gmail.com (Jan Kučera)</managingEditor>
+    <webMaster>kucera.ja&#43;blog@gmail.com (Jan Kučera)</webMaster>
+    <lastBuildDate>Sun, 16 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://username.github.io/tags/mermaid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diagram Sample</title>
+      <link>https://username.github.io/sample/2018-09-16-mermaid-sample/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      <author>kucera.ja&#43;blog@gmail.com (Jan Kučera)</author>
+      <guid>https://username.github.io/sample/2018-09-16-mermaid-sample/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mermaidjs.github.io/&#34;&gt;Mermaid&lt;/a&gt; is a library helping you to generate diagram and flowcharts from text, in a similar manner as Markdown.&lt;/p&gt;
+
+&lt;p&gt;Just insert your mermaid code in the &lt;code&gt;mermaid&lt;/code&gt; shortcode and that&amp;rsquo;s it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Adding mermaid shortcode to hugo theme</title>
+      <link>https://username.github.io/post/2018-09-15-adding-shortcode/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      <author>kucera.ja&#43;blog@gmail.com (Jan Kučera)</author>
+      <guid>https://username.github.io/post/2018-09-15-adding-shortcode/</guid>
+      <description>&lt;p&gt;Hugo supports shortcodes, which according to &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34;&gt;documentation&lt;/a&gt; are&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;simple snippets inside your content files calling built-in or custom templates.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are buit-ins like visualization of an instagram post, or youtube video. But there is a place for custom ones as described thoroughy &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Jan Kučera</title>
+    <link>https://username.github.io/page/</link>
+    <description>Recent content in Pages on Jan Kučera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>kucera.ja&#43;blog@gmail.com (Jan Kučera)</managingEditor>
+    <webMaster>kucera.ja&#43;blog@gmail.com (Jan Kučera)</webMaster>
+    
+	<atom:link href="https://username.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://username.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kucera.ja&#43;blog@gmail.com (Jan Kučera)</author>
+      <guid>https://username.github.io/page/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
